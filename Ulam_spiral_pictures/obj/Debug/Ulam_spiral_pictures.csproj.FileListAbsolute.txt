@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2015\Projects\Ulam_spiral_pictures\Ulam_spiral_pictures\bin\Debug\Ulam_spiral_pictures.exe.config
+c:\Users\Adam\Documents\Visual Studio 2015\Projects\Ulam_spiral_pictures\Ulam_spiral_pictures\bin\Debug\Ulam_spiral_pictures.exe
+c:\Users\Adam\Documents\Visual Studio 2015\Projects\Ulam_spiral_pictures\Ulam_spiral_pictures\bin\Debug\Ulam_spiral_pictures.pdb
+c:\Users\Adam\Documents\Visual Studio 2015\Projects\Ulam_spiral_pictures\Ulam_spiral_pictures\obj\Debug\Ulam_spiral_pictures.csprojResolveAssemblyReference.cache
+c:\Users\Adam\Documents\Visual Studio 2015\Projects\Ulam_spiral_pictures\Ulam_spiral_pictures\obj\Debug\Ulam_spiral_pictures.exe
+c:\Users\Adam\Documents\Visual Studio 2015\Projects\Ulam_spiral_pictures\Ulam_spiral_pictures\obj\Debug\Ulam_spiral_pictures.pdb
